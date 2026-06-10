@@ -1,0 +1,7 @@
+# Core dependencies
+Pillow>=10.0          # Image compression (JPEG, PNG, WebP, GIF, BMP, TIFF)
+pikepdf>=8.0          # PDF compression (used when Ghostscript is not installed)
+rich>=13.0            # Beautiful CLI output with progress bars and colors
+
+# Development dependencies (install with: pip install -r requirements-dev.txt)
+# See requirements-dev.txt
